@@ -1,1 +1,1 @@
-
+Web exploitation is the process of exploiting vulnerabilities in web-based applications to gain access to sensitive data or control over the app. Attackers can exploit these vulnerabilities to take over the entire app, steal sensitive data, or use the app to launch attacks on other systems.
