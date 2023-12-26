@@ -1,1 +1,1 @@
-Web exploitation is the process of exploiting vulnerabilities in web-based applications to gain access to sensitive data or control over the app. Attackers can exploit these vulnerabilities to take over the entire app, steal sensitive data, or use the app to launch attacks on other systems.
+Capture the Flag (CTF) in computer security is an exercise in which participants attempt to find text strings, called "flags", which are secretly hidden in purposefully-vulnerable programs or websites. They can be used for both competitive or educational purposes.
